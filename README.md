@@ -8,6 +8,12 @@ This project focuses on detecting fraudulent job postings using machine learning
 
 <img width="1856" height="756" alt="image_5" src="https://github.com/user-attachments/assets/89c9f7e2-3ca7-4b64-9024-556427b58f7f" />
 
+<img width="1836" height="770" alt="image_6" src="https://github.com/user-attachments/assets/6ccc868b-12e0-4483-9a20-4d1c4bcd87f2" />
+
+<img width="1842" height="790" alt="image_7" src="https://github.com/user-attachments/assets/a7367fac-68e4-41df-80a2-c606abbdfd9d" />
+
+<img width="1795" height="767" alt="image_8" src="https://github.com/user-attachments/assets/00cf1344-6e03-4025-9be5-e4f0c1ad6718" />
+
 ---
 ## Dataset
 
