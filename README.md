@@ -3,6 +3,12 @@
 
 This project focuses on detecting fraudulent job postings using machine learning. It applies multiple classification algorithms on a labeled dataset and compares their performance to identify which model performs best in distinguishing real and fake job advertisements.
 
+---
+# Preview
+
+<img width="1856" height="756" alt="image_5" src="https://github.com/user-attachments/assets/89c9f7e2-3ca7-4b64-9024-556427b58f7f" />
+
+---
 ## Dataset
 
 - **Source**: `fake job posting.xlsx`
