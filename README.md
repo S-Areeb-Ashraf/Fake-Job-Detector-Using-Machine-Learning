@@ -8,7 +8,7 @@ This project focuses on detecting fraudulent job postings using machine learning
 
 ![alt text](/pics/job_1.PNG)
 
-## Test Inout / PDF Upload
+## Test Input / PDF Upload
 ![alt text](/pics/job_2.PNG)
 
 ## Results (Legit OR Fake)
