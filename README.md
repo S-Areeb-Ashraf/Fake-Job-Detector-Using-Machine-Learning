@@ -12,7 +12,7 @@ This project focuses on detecting fraudulent job postings using machine learning
 ![alt text](/pics/job_2.PNG)
 
 ## Results (Legit OR Fake)
-![alt text](/pics/job_1.PNG)
+![alt text](/pics/job_3.PNG)
 
 
 <!-- <img width="1856" height="756" alt="image_5" src="https://github.com/user-attachments/assets/89c9f7e2-3ca7-4b64-9024-556427b58f7f" /> -->
